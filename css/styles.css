@@ -180,9 +180,6 @@ img {
   max-width: 1440px;
   padding: 0 15px;
   margin: 0 auto;
-}
-
-.container-hero {
   background-color: #2e2f42;
   background-image: linear-gradient(
       to bottom,
@@ -347,7 +344,6 @@ img {
 .team-socicons-list {
   display: flex;
   gap: 24px;
-  align-items: center;
   justify-content: center;
 }
 
@@ -454,9 +450,7 @@ img {
   letter-spacing: 0.02em;
   position: absolute;
   display: flex;
-  padding-top: 40px;
-  padding-right: 32px;
-  padding-left: 32px;
+  padding: 40px 32px;
   top: 0;
   background-color: #4d5ae5;
   height: 100%;
